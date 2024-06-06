@@ -18,4 +18,13 @@
 # Array
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/shinadhmuhammed/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/shinadhmuhammed/LeetCode/tree/master/1044-find-common-characters) |
+# Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/shinadhmuhammed/LeetCode/tree/master/0941-sort-array-by-parity) |
+# Sorting
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/shinadhmuhammed/LeetCode/tree/master/0941-sort-array-by-parity) |
