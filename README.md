@@ -28,3 +28,15 @@
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/shinadhmuhammed/LeetCode/tree/master/0941-sort-array-by-parity) |
+# Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0232-implement-queue-using-stacks) |
