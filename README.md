@@ -32,11 +32,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/shinadhmuhammed/LeetCode/tree/master/0148-sort-list) |
 | [0941-sort-array-by-parity](https://github.com/shinadhmuhammed/LeetCode/tree/master/0941-sort-array-by-parity) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/shinadhmuhammed/LeetCode/tree/master/0148-sort-list) |
 | [0941-sort-array-by-parity](https://github.com/shinadhmuhammed/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1217-relative-sort-array) |
@@ -68,3 +70,15 @@
 | ------- |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1217-relative-sort-array) |
+# Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shinadhmuhammed/LeetCode/tree/master/0148-sort-list) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shinadhmuhammed/LeetCode/tree/master/0148-sort-list) |
+# Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shinadhmuhammed/LeetCode/tree/master/0148-sort-list) |
