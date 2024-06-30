@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shinadhmuhammed/LeetCode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
