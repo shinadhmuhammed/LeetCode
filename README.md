@@ -110,11 +110,13 @@
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/shinadhmuhammed/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shinadhmuhammed/LeetCode/tree/master/0125-valid-palindrome) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -132,4 +135,12 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0263-ugly-number) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
