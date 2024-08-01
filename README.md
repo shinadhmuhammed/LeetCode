@@ -114,6 +114,7 @@
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/shinadhmuhammed/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shinadhmuhammed/LeetCode/tree/master/0125-valid-palindrome) |
+| [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
 | ------- |
