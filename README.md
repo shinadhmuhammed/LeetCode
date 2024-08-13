@@ -136,6 +136,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shinadhmuhammed/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shinadhmuhammed/LeetCode/tree/master/0125-valid-palindrome) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shinadhmuhammed/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
