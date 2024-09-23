@@ -117,6 +117,7 @@
 | [1293-three-consecutive-odds](https://github.com/shinadhmuhammed/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shinadhmuhammed/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,10 +188,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shinadhmuhammed/LeetCode/tree/master/0014-longest-common-prefix) |
+| [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
