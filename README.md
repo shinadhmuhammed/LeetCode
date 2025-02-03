@@ -119,6 +119,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
 |  |
 | ------- |
