@@ -119,6 +119,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shinadhmuhammed/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3451-string-compression-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
@@ -196,6 +198,7 @@
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
 | ------- |
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
