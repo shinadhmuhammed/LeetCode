@@ -112,6 +112,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shinadhmuhammed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1002-maximum-width-ramp](https://github.com/shinadhmuhammed/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shinadhmuhammed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
