@@ -122,6 +122,7 @@
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/shinadhmuhammed/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
 |  |
@@ -154,6 +155,7 @@
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/shinadhmuhammed/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3451-string-compression-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
