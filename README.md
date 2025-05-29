@@ -116,6 +116,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/shinadhmuhammed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1002-maximum-width-ramp](https://github.com/shinadhmuhammed/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/shinadhmuhammed/LeetCode/tree/master/1293-three-consecutive-odds) |
