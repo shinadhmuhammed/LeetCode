@@ -112,6 +112,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinadhmuhammed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinadhmuhammed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
