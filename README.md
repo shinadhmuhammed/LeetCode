@@ -173,6 +173,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/shinadhmuhammed/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/shinadhmuhammed/LeetCode/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
