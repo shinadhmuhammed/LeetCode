@@ -122,6 +122,7 @@
 | [0485-max-consecutive-ones](https://github.com/shinadhmuhammed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0506-relative-ranks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0506-relative-ranks) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-maximum-width-ramp](https://github.com/shinadhmuhammed/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/shinadhmuhammed/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -142,6 +143,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0506-relative-ranks) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/shinadhmuhammed/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shinadhmuhammed/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
