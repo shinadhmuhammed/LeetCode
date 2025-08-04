@@ -122,6 +122,7 @@
 | [0485-max-consecutive-ones](https://github.com/shinadhmuhammed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0506-relative-ranks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0506-relative-ranks) |
+| [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-maximum-width-ramp](https://github.com/shinadhmuhammed/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -196,6 +197,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shinadhmuhammed/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
