@@ -176,6 +176,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/shinadhmuhammed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shinadhmuhammed/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
