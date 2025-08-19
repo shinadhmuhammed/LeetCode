@@ -130,6 +130,7 @@
 | [1293-three-consecutive-odds](https://github.com/shinadhmuhammed/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/shinadhmuhammed/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2727-number-of-senior-citizens](https://github.com/shinadhmuhammed/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -192,6 +193,7 @@
 | [0263-ugly-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/shinadhmuhammed/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
