@@ -166,6 +166,7 @@
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shinadhmuhammed/LeetCode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/shinadhmuhammed/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/shinadhmuhammed/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -175,6 +176,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/shinadhmuhammed/LeetCode/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0768-partition-labels](https://github.com/shinadhmuhammed/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/shinadhmuhammed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shinadhmuhammed/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -203,6 +205,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0768-partition-labels](https://github.com/shinadhmuhammed/LeetCode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/shinadhmuhammed/LeetCode/tree/master/0768-partition-labels) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shinadhmuhammed/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
