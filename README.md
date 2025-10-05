@@ -193,6 +193,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shinadhmuhammed/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0263-ugly-number) |
