@@ -3,6 +3,7 @@
  * @return {boolean}
  */
 var isPalindrome = function (x) {
+    if (x < 0) return false
     let actualX = x
     let rev = 0
     while (x > 0) {
@@ -10,9 +11,5 @@ var isPalindrome = function (x) {
         rev = (rev * 10) + rem
         x = Math.floor(x / 10)
     }
-    if (rev === actualX) {
-        return true
-    } else {
-        return false
-    }
+    return rev === actualX
 };
