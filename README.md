@@ -120,6 +120,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinadhmuhammed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shinadhmuhammed/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -150,6 +151,7 @@
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0506-relative-ranks) |
@@ -208,6 +210,7 @@
 | [0009-palindrome-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shinadhmuhammed/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -217,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shinadhmuhammed/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/shinadhmuhammed/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -229,6 +233,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -329,6 +334,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Sliding Window
