@@ -203,6 +203,7 @@
 | [3451-string-compression-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [0326-power-of-three](https://github.com/shinadhmuhammed/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shinadhmuhammed/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
@@ -355,4 +358,12 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
