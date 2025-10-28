@@ -215,6 +215,7 @@
 | [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shinadhmuhammed/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -273,6 +274,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinadhmuhammed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
@@ -292,10 +294,12 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/shinadhmuhammed/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/shinadhmuhammed/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
