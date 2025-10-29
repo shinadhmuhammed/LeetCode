@@ -112,6 +112,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shinadhmuhammed/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/shinadhmuhammed/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shinadhmuhammed/LeetCode/tree/master/0075-sort-colors) |
@@ -237,6 +238,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
