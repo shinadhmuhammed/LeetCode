@@ -129,6 +129,7 @@
 | [0485-max-consecutive-ones](https://github.com/shinadhmuhammed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0506-relative-ranks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0506-relative-ranks) |
+| [0792-binary-search](https://github.com/shinadhmuhammed/LeetCode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-maximum-width-ramp](https://github.com/shinadhmuhammed/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -241,6 +242,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/shinadhmuhammed/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
