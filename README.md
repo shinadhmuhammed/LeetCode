@@ -147,6 +147,7 @@
 | [3194-find-words-containing-character](https://github.com/shinadhmuhammed/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shinadhmuhammed/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -219,6 +220,7 @@
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -235,6 +237,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
