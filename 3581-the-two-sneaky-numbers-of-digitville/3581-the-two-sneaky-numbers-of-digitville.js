@@ -4,18 +4,16 @@
  */
 var getSneakyNumbers = function (nums) {
     let res = {}
-
+    let arr = []
     for (let i = 0; i < nums.length; i++) {
         if (res[nums[i]]) {
             res[nums[i]]++
         } else {
             res[nums[i]] = 1
         }
-    }
-    let arr = []
-    for (let val in res) {
-        if (res[val] > 1) {
-            arr.push(Number(val))
+
+        if(res[nums[i]] === 2){
+            arr.push(nums[i])
         }
     }
     return arr
