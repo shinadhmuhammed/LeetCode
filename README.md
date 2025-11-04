@@ -149,6 +149,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shinadhmuhammed/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -241,6 +242,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/shinadhmuhammed/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
@@ -343,6 +345,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shinadhmuhammed/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/shinadhmuhammed/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0948-sort-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shinadhmuhammed/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
