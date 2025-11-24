@@ -137,6 +137,7 @@
 | [0948-sort-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shinadhmuhammed/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-maximum-width-ramp](https://github.com/shinadhmuhammed/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shinadhmuhammed/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/shinadhmuhammed/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/shinadhmuhammed/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/shinadhmuhammed/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -375,6 +376,7 @@
 | [0268-missing-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shinadhmuhammed/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sliding Window
 |  |
 | ------- |
