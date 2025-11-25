@@ -231,6 +231,7 @@
 | [0326-power-of-three](https://github.com/shinadhmuhammed/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shinadhmuhammed/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shinadhmuhammed/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -247,6 +248,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/shinadhmuhammed/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0768-partition-labels](https://github.com/shinadhmuhammed/LeetCode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/shinadhmuhammed/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shinadhmuhammed/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shinadhmuhammed/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shinadhmuhammed/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shinadhmuhammed/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
