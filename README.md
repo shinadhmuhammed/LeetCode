@@ -153,6 +153,7 @@
 | [3194-find-words-containing-character](https://github.com/shinadhmuhammed/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shinadhmuhammed/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shinadhmuhammed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shinadhmuhammed/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/shinadhmuhammed/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -233,6 +234,7 @@
 | [1013-fibonacci-number](https://github.com/shinadhmuhammed/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shinadhmuhammed/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shinadhmuhammed/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shinadhmuhammed/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shinadhmuhammed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shinadhmuhammed/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
